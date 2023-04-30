@@ -23,3 +23,7 @@ NPM (6.14.4)
 4. To install dependencies, run  npm install
 5. To run the application for development, run  npm run development  
 6. Open localhost:3000 in the browser
+
+#### Reference Book
+[Full-Stack React Projects - Second Edition](https://sd.blackball.lv/library/Full-Stack_React_Projects_2nd_Edition_(2020).pdf)
+Learn MERN stack development by building modern web apps using MongoDB, Express, React, and Node.js
