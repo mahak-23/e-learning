@@ -12,8 +12,8 @@ A simple web-based e-learning application that allows instructors to add courses
 | NODE_ENV    | 'development' |
 
 #### What you need to run this code
-Node (13.12.0)
-NPM (6.14.4) 
+- Node (13.12.0)
+- NPM (6.14.4) 
 
 #### How to run this code
 
@@ -26,4 +26,4 @@ NPM (6.14.4)
 
 #### Reference Book
 [Full-Stack React Projects - Second Edition](https://sd.blackball.lv/library/Full-Stack_React_Projects_2nd_Edition_(2020).pdf)
-Learn MERN stack development by building modern web apps using MongoDB, Express, React, and Node.js
+
