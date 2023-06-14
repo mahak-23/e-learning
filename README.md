@@ -2,7 +2,7 @@
 
 A simple web-based e-learning application that allows instructors to add courses with lessons, while students can enroll in these courses and track their progress. - developed using React, Node, Express and MongoDB. There is also a code editor where users can practice coding.
 
- [E-Learning.webm](https://github.com/mahak-23/e-learning/assets/107416996/2be4bfd2-cfe1-4699-a9f7-0ff575c9f592){:height="200px" width="300px"}
+ [E-Learning.webm](https://github.com/mahak-23/e-learning/assets/107416996/2be4bfd2-cfe1-4699-a9f7-0ff575c9f592)
 
 #### .env file Keys
 
